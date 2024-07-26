@@ -1,0 +1,1 @@
+export { default } from "file:///home/pe/Documents/PE/My%20Works/different-buttons-in-nuxt-tailwind/node_modules/.pnpm/@nuxt+vite-builder@3.12.4_@types+node@20.14.12_magicast@0.3.4_rollup@4.19.0_terser@5.31.3_vue@3.4.34/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
